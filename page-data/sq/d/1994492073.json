@@ -1,0 +1,13 @@
+{
+    "data": {
+        "site": {
+            "siteMetadata": {
+                "defaultTitle": "Jay Birthariya",
+                "defaultDescription": "Jay Birthariya is a software engineer who specializes in building android and web applications.",
+                "siteUrl": "https://brittanychiang.com",
+                "defaultImage": "/og.png",
+                "twitterUsername": "@bchiang7"
+            }
+        }
+    }
+}

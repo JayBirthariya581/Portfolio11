@@ -1,0 +1,44 @@
+{
+    "data": {
+        "jobs": {
+            "edges": [
+                {
+                    "node": {
+                        "frontmatter": {
+                            "title": "Android App Developer",
+                            "company": "GearToCare",
+                            "location": "Nagpur,Maharashtra,India",
+                            "range": "May 2021 - Present",
+                            "url": "https://geartocare.com/"
+                        },
+                        "html": "<ul>\n<li>Implemented my Two-Wheeler Doorstep Project (i.e. Manager, Client and Mechanic Android Applications) </li>\n<li>Work with a variety of different languages, platforms, frameworks, and API's such as Google Maps,Google Places,One Api by MSG91 and RazorPay</li>\n<li>Built a team of 5 members and worked collaboratively on daily basis using tools like Git/GitHub</li>\n</ul>"
+                    }
+                },
+                {
+                    "node": {
+                        "frontmatter": {
+                            "title": "Android App Developer",
+                            "company": "CM RCEOM",
+                            "location": "Nagpur,Maharashtra,India",
+                            "range": "January 2022 - Present",
+                            "url": "http://www.rknec.edu/ExcellenceCentres/Microsystems.aspx"
+                        },
+                        "html": "<ul>\n<li>Worked with a fellow developer to build an Android Application for Soil Health Monitoring System at Center of Microsystems,RCOEM</li>\n<li>Developed an Algorithm for comparing color of the sample to find out the corresponding PH and Concentration Level values of the appropriate nutrients (which includes Nitrogen,Phosphorous and Patassium)</li>\n</ul>"
+                    }
+                },
+                {
+                    "node": {
+                        "frontmatter": {
+                            "title": "Web Developer",
+                            "company": "Technical Club",
+                            "location": "Nagpur,Maharashtra,India",
+                            "range": "Sept 2019 - May 2021",
+                            "url": "https://www.rcoemtechnical.club/"
+                        },
+                        "html": "<ul>\n<li>Was a part Web-Development Team of Technical Club,RCOEM</li>\n<li>Worked with fellow developers and contributed in the developmet of cultural fest website of our college</li>\n</ul>"
+                    }
+                }
+            ]
+        }
+    }
+}
